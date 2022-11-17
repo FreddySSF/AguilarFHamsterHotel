@@ -1,0 +1,24 @@
+h2{
+    font-family: 'Dosis', sans-serif;
+}
+
+p{
+    font-family: 'Dosis', sans-serif;
+}
+
+.center{
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.whiteLetters{
+    text-align: center;
+    color: white;
+}
+
+.blackLetters{
+    text-align: center;
+    color: black;
+}
